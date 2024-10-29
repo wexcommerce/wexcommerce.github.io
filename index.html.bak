@@ -39,12 +39,20 @@
     document.write("\
     \
     <!-- Google Analytics -->\
+<<<<<<< HEAD
     <gascript async src=\"https://www.googletagmanager.com/gtag/js?id=AW-16758312117\"></gascript>\
+=======
+    <gascript async src=\"https://www.googletagmanager.com/gtag/js?id=AW-16758226687\"></gascript>\
+>>>>>>> 14c34c1b67154a9e66618756c7d7a063dd5219df
     <gascript>\
         window.dataLayer = window.dataLayer || [];\
         function gtag(){dataLayer.push(arguments);}\
         gtag('js', new Date());\
+<<<<<<< HEAD
         gtag('config', 'AW-16758312117');\
+=======
+        gtag('config', 'AW-16758226687');\
+>>>>>>> 14c34c1b67154a9e66618756c7d7a063dd5219df
     </gascript>\
     <!-- End Google Analytics -->\
     ".replace(/gascript/g, 'script'));
