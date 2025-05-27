@@ -379,7 +379,6 @@
   --animation-custom_in-scale: 1;
   text-transform: none;
   letter-spacing: normal;
-  font-weight: normal;
   margin: 38px 1px 0;
 }
 
@@ -410,6 +409,7 @@
   }
 
   .u-section-3 .u-text-2 {
+    font-weight: normal;
     width: auto;
     margin-top: 46px;
     margin-left: 0;
