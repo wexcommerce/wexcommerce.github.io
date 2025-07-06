@@ -31,6 +31,7 @@
   "features.sentry": "Monitoreo de errores y rendimiento con Sentry",
   "features.platforms_title": "Plataformas compatibles",
   "features.web": "Web",
+  "features.platform_docker": "Docker",
   "demo.title": "Prueba la aplicación",
   "demo.frontend": "Frontend",
   "demo.url": "URL:",
