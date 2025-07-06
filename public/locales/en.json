@@ -31,6 +31,7 @@
   "features.sentry": "Error monitoring and performance tracing with Sentry",
   "features.platforms_title": "Supported Platforms",
   "features.web": "Web",
+  "features.platform_docker": "Docker",
   "demo.title": "Try the App",
   "demo.frontend": "Frontend",
   "demo.url": "URL:",
