@@ -2,6 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wexcommerce.github.io</loc>
-    <lastmod>2022-11-25</lastmod>
+  </url>
+  <url>
+    <loc>https://wexcommerce.github.io/?lang=en</loc>
+  </url>
+  <url>
+    <loc>https://wexcommerce.github.io/?lang=fr</loc>
+  </url>
+  <url>
+    <loc>https://wexcommerce.github.io/?lang=es</loc>
+  </url>
+  <url>
+    <loc>https://wexcommerce.github.io/?lang=pt</loc>
+  </url>
+  <url>
+    <loc>https://wexcommerce.github.io/?lang=zh</loc>
+  </url>
+  <url>
+    <loc>https://wexcommerce.github.io/?lang=ja</loc>
   </url>
 </urlset>
