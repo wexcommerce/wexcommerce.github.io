@@ -4,7 +4,7 @@
 
 [wexCommerce](https://github.com/aelassas/wexcommerce) is a single-vendor marketplace offering an SEO-optimized web storefront and a powerful admin panel for managing your online store.  
 
-This repository contains the source code for the [wexCommerce](https://wexcommerce.github.io/) official landing page.
+This repository contains the source code for the [wexCommerce](https://wexcommerce.github.io/) official landing page — a presentation site for the platform, not the platform itself.
 
 Built with a clean and simple design, this website presents the main features, demo, support, and contact sections to introduce wexCommerce to users and developers.
 
