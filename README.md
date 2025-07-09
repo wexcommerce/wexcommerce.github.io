@@ -1,3 +1,5 @@
+[![deploy](https://github.com/wexcommerce/wexcommerce.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/wexcommerce/wexcommerce.github.io/actions/workflows/deploy.yml) [![lighthouse](https://github.com/wexcommerce/wexcommerce.github.io/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/wexcommerce/wexcommerce.github.io/actions/workflows/lighthouse.yml)
+
 # wexCommerce Website
 
 This repository contains the source code for the [wexCommerce](https://wexcommerce.github.io/) official landing page.
