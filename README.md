@@ -1,20 +1,20 @@
 [![deploy](https://github.com/wexcommerce/wexcommerce.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/wexcommerce/wexcommerce.github.io/actions/workflows/deploy.yml) [![lighthouse](https://github.com/wexcommerce/wexcommerce.github.io/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/wexcommerce/wexcommerce.github.io/actions/workflows/lighthouse.yml)
 
-# wexCommerce Website
+## About
+
+[wexCommerce](https://github.com/aelassas/wexcommerce) is a single-vendor marketplace offering an SEO-optimized web storefront and a powerful admin panel for managing your online store.  
 
 This repository contains the source code for the [wexCommerce](https://wexcommerce.github.io/) official landing page.
 
+Built with a clean and simple design, this website presents the main features, demo, support, and contact sections to introduce wexCommerce to users and developers.
+
 The website is built using [Vite](https://vitejs.dev/) with plain HTML, CSS, and JavaScript.
 
-## About
+Feel free to explore the code, see how everything works, suggest improvements, or use it as a starting point or template to build your own landing page.
 
-wexCommerce is an open-source and cross-platform single-vendor marketplace offering an SEO-optimized web storefront and a powerful admin panel for managing your online store.  
+## Website Features (Not BookCars Platform)
 
-This website presents the main features, demo, support, and contact sections to introduce wexCommerce to users and developers.
-
-## Features
-
-- Multilingual support (English, French, Spanish, Portuguese, Japanese, Chinese)
+- Multilingual support (English, French, German, Spanish, Portuguese, Japanese, Chinese)
 - Responsive and accessible design  
 - Language switcher and dark mode toggle  
 - Demo links and contact form integration  
@@ -29,6 +29,7 @@ Each file/module has a single responsibility, helping keep the codebase clean an
 | `index.html`         | Structure / Content                                           | Defines the HTML structure and semantic layout of the page.                |
 | `style.css`          | Presentation (Styling)                                        | Handles layout, colors, fonts, and responsive design using CSS.            |
 | `i18n.js`            | Internationalization (i18n)                                   | Manages language loading, switching, and translation key resolution.       |
+| `ga.js`              | Google Analytics                                              | Loads Google Analytics script on `mousemove` or `touchstart` to enhance performance by deferring third-party tracking until user interaction. |
 | `ui.js`              | UI Behavior / Interactivity                                   | Manages dynamic UI features like header/footer loading, scroll effects, hamburger menu, theme toggle, etc. |
 | `main.js`            | Application Initialization / Coordination                     | Initializes the app, connects modules together, and runs on DOM ready.     |
 | `vite.config.js`     | Build Tool Configuration                                      | Configures how files are served and built using Vite.                      |
