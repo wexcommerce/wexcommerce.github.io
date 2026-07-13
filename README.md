@@ -122,3 +122,4 @@ This project is licensed under the MIT License.
 * [wexCommerce GitHub](https://github.com/aelassas/wexcommerce)
 * [wexCommerce Live Demo](https://wexcommerce.github.io/#demo)
 * [Documentation](https://github.com/aelassas/wexcommerce/wiki)
+
