@@ -28,9 +28,9 @@
       ]
     },
     {
-      "identifier": "urn:air:wexcommerce.github.io:docs:llms-full-txt",
+      "identifier": "urn:air:wexcommerce.github.io:docs:llms-full-context",
       "displayName": "wexCommerce Full Documentation Context",
-      "type": "text/markdown",
+      "type": "application/ai-registry+json",
       "url": "https://wexcommerce.github.io/llms-full.txt",
       "description": "Complete concatenated Markdown documentation context compiled from all wexCommerce Wiki pages.",
       "representativeQueries": [
