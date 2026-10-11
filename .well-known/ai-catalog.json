@@ -1,0 +1,57 @@
+{
+  "specVersion": "1.0",
+  "entries": [
+    {
+      "identifier": "urn:air:wexcommerce.github.io:docs:llms-txt",
+      "displayName": "wexCommerce Overview & Quick Reference for LLMs",
+      "type": "application/ai-registry+json",
+      "url": "https://wexcommerce.github.io/llms.txt",
+      "description": "Structured Markdown summary of wexCommerce, containing core feature overviews, technology stack breakdowns, and index links to documentation sections.",
+      "representativeQueries": [
+        "what is wexCommerce and what does it do",
+        "open source single vendor e-commerce platform with Next.js and Node.js",
+        "SEO optimized e-commerce storefront and admin panel architecture",
+        "wexCommerce system overview and core component setup"
+      ]
+    },
+    {
+      "identifier": "urn:air:wexcommerce.github.io:docs:llms-full-txt",
+      "displayName": "wexCommerce Complete Full-Text Documentation for LLMs",
+      "type": "application/ai-registry+json",
+      "url": "https://wexcommerce.github.io/llms-full.txt",
+      "description": "Complete concatenated Markdown documentation suite for wexCommerce, including stock management, payment gateway integrations, delivery options, and Docker deployments.",
+      "representativeQueries": [
+        "full wexCommerce e-commerce features and order management documentation",
+        "how to configure Stripe and PayPal payment gateways in wexCommerce",
+        "wexCommerce store inventory stock management and delivery options",
+        "building and deploying wexCommerce web storefront with Next.js"
+      ]
+    },
+    {
+      "identifier": "urn:air:wexcommerce.github.io:docs:llms-full-txt",
+      "displayName": "wexCommerce Full Documentation Context",
+      "type": "text/markdown",
+      "url": "https://wexcommerce.github.io/llms-full.txt",
+      "description": "Complete concatenated Markdown documentation context compiled from all wexCommerce Wiki pages.",
+      "representativeQueries": [
+        "full wexCommerce REST API and Next.js frontend setup guides",
+        "how to setup social login for Google Facebook and Apple in wexCommerce",
+        "configuring languages currencies and cash on delivery in wexCommerce",
+        "wexCommerce Docker deployment Nginx reverse proxy and SSL setup"
+      ]
+    },
+    {
+      "identifier": "urn:air:wexcommerce.github.io:docs:wiki",
+      "displayName": "wexCommerce Official Wiki Documentation",
+      "type": "application/ai-registry+json",
+      "url": "https://github.com/aelassas/wexcommerce/wiki",
+      "description": "Comprehensive wiki covering self-hosted installation, Docker setup, software architecture, payment configuration, social login guides, and testing references.",
+      "representativeQueries": [
+        "how to install wexCommerce on Docker or self-hosted Linux server",
+        "configure single vendor store settings and payment methods in wexCommerce",
+        "setup store currency default language and translations in wexCommerce",
+        "how to run integration tests and code coverage in wexCommerce"
+      ]
+    }
+  ]
+}
