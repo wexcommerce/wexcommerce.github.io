@@ -3,6 +3,7 @@ import {
   initHamburgerMenu,
   initLanguageMenu,
   initThemeToggle,
+  initGitHubButton,
   updateFooterYear
 } from './ui.js'
 
@@ -17,6 +18,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     initLanguageMenu(setLang)  // Language dropdown logic
     initThemeToggle()          // Light/dark mode toggle
     updateFooterYear()         // Set current year in footer
+    initGitHubButton()         // Load GitHub star button after DOM updates
   } catch (err) {
     console.error('Error during app initialization:', err)
   }
