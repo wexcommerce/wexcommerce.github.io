@@ -10,7 +10,7 @@
   "hero.cta": "Live-Demo",
   "hero.get_started": "Loslegen",
   "about.title": "Kostenlos, plattformübergreifend, Open Source",
-  "about.description": "wexCommerce ist ein Open-Source-Marktplatz für Einzelhändler unter der MIT-Lizenz. Es ist vollständig responsiv und funktioniert nahtlos auf allen modernen Geräten und Bildschirmgrößen.",
+  "about.description": "wexCommerce ist ein Open-Source-Marktplatz für einen einzelnen Anbieter unter der MIT-Lizenz, sodass Sie es frei verwenden, ändern, teilen oder sogar verkaufen dürfen. Die Zahlungsanbieter Stripe und PayPal sind integriert. Die Plattform ist durch JWT-Authentifizierung, Ratenbegrenzung mit Redis, Google reCAPTCHA auf öffentlichen Formularen und Validierung von Anfragen geschützt. Sentry bietet Fehlerüberwachung und Performance-Tracing, die Oberfläche ist auf Englisch und Französisch verfügbar, und der Shop umfasst Seiten zu Cookie-Richtlinie, Datenschutzerklärung und Nutzungsbedingungen. Sie ist vollständig responsiv und funktioniert nahtlos auf allen modernen Geräten und Bildschirmgrößen.",
   "features.title": "Funktionen",
   "features.commerce_title": "Handelsverwaltung",
   "features.commerce_management": "Lagerverwaltung",

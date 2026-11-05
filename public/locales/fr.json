@@ -10,7 +10,7 @@
   "hero.cta": "Démo en direct",
   "hero.get_started": "Commencer",
   "about.title": "Gratuit, Multiplateforme, Open Source",
-  "about.description": "wexCommerce est une marketplace monovendeur open source sous licence MIT. Vous êtes libre de l'utiliser, la modifier, la partager ou même la vendre. Elle est entièrement responsive et fonctionne parfaitement sur tous les appareils et tailles d'écran modernes.",
+  "about.description": "wexCommerce est une marketplace monovendeur open source sous licence MIT, vous êtes donc libre de l'utiliser, de la modifier, de la partager ou même de la vendre. Elle intègre les passerelles de paiement Stripe et PayPal. La plateforme est protégée par l'authentification JWT, la limitation de débit adossée à Redis, Google reCAPTCHA sur les formulaires publics et la validation des requêtes. Sentry assure la surveillance des erreurs et le suivi des performances, l'interface est disponible en anglais et en français, et la vitrine comprend des pages de politique de cookies, de confidentialité et de conditions d'utilisation. Elle est entièrement responsive et fonctionne parfaitement sur tous les appareils modernes et toutes les tailles d'écran.",
   "features.title": "Fonctionnalités",
   "features.commerce_title": "Gestion Commerciale",
   "features.commerce_management": "Gestion des stocks",

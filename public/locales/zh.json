@@ -10,7 +10,7 @@
   "hero.cta": "实时演示",
   "hero.get_started": "开始使用",
   "about.title": "免费、跨平台、开源",
-  "about.description": "wexCommerce 是一个开源的单一供应商市场，采用MIT许可证。它完全响应式，能无缝适配所有现代设备和屏幕尺寸。",
+  "about.description": "wexCommerce 是一个采用 MIT 许可证的开源单一供应商市场，您可以自由地使用、修改、分享，甚至销售它。内置 Stripe 和 PayPal 支付网关。平台通过 JWT 认证、基于 Redis 的速率限制、公共表单上的 Google reCAPTCHA 以及请求验证进行保护。Sentry 提供错误监控和性能追踪，界面支持英语和法语，店铺前台还包括 Cookie 政策、隐私政策和服务条款页面。它完全响应式，能无缝适配所有现代设备和屏幕尺寸。",
   "features.title": "功能",
   "features.commerce_title": "商业管理",
   "features.commerce_management": "库存管理",
