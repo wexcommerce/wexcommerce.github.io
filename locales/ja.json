@@ -10,7 +10,7 @@
   "hero.cta": "ライブデモ",
   "hero.get_started": "始める",
   "about.title": "無料、クロスプラットフォーム、オープンソース",
-  "about.description": "wexCommerceはMITライセンスのオープンソース単一ベンダーマーケットプレイスです。完全にレスポンシブで、あらゆる最新デバイスや画面サイズにシームレスに対応します。",
+  "about.description": "wexCommerceはMITライセンスのオープンソース単一ベンダーマーケットプレイスで、自由に使用、変更、共有、さらには販売することもできます。StripeとPayPalの決済ゲートウェイを標準で搭載しています。プラットフォームはJWT認証、Redisベースのレート制限、公開フォームでのGoogle reCAPTCHA、リクエスト検証によって保護されています。Sentryによるエラー監視とパフォーマンス追跡を提供し、インターフェースは英語とフランス語で利用できます。ストアフロントにはCookieポリシー、プライバシーポリシー、利用規約のページも含まれています。完全にレスポンシブで、あらゆる最新デバイスや画面サイズにシームレスに対応します。",
   "features.title": "機能",
   "features.commerce_title": "コマース管理",
   "features.commerce_management": "在庫管理",
