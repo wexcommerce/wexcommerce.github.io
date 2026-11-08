@@ -40,6 +40,7 @@
   "demo.url": "URL:",
   "demo.login": "Login:",
   "demo.password": "Senha:",
+  "demo.passwordContact": "Entre em contato com o mantenedor para obter a senha",
   "demo.adminPanel": "Painel Administrativo",
   "demo.androidApp": "App Android",
   "demo.androidAppDesc": "Você pode instalar o aplicativo Android baixando o APK e instalando-o em qualquer dispositivo Android.",

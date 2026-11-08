@@ -40,6 +40,7 @@
   "demo.url": "URL：",
   "demo.login": "ログイン：",
   "demo.password": "パスワード：",
+  "demo.passwordContact": "パスワードについてはメンテナーにお問い合わせください",
   "demo.adminPanel": "管理パネル",
   "demo.androidApp": "Androidアプリ",
   "demo.androidAppDesc": "APKをダウンロードして任意のAndroidデバイスにインストールすることで、Androidアプリを利用できます。",

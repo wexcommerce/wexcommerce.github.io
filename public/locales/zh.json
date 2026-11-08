@@ -40,6 +40,7 @@
   "demo.url": "网址：",
   "demo.login": "登录：",
   "demo.password": "密码：",
+  "demo.passwordContact": "密码请联系维护者",
   "demo.adminPanel": "管理面板",
   "demo.androidApp": "安卓应用",
   "demo.androidAppDesc": "您可以通过下载APK并安装到任何安卓设备上来安装安卓应用。",
